@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
 </div>
 - 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
-- You can reach me from **akineren1121@hotmail.com** or **a.erengunduz@gmail.com**
+- You can reach me from <a href="akineren1121@hotmail.com"/>akineren1121@hotmail.com</a> or <a href="a.erengunduz@gmail.com"/>a.erengunduz@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
