@@ -42,7 +42,7 @@
 ---
 
 ## 🛠 Languages and Tools  
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3061/3061341.png" alt="Security" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -53,10 +53,25 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenGunduzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenGunduzz&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenGunduzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/ErenGunduzz">
+    <img src="https://github-readme-stats.vercel.app/api?username=ErenGunduzz&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=000000&title_color=FF5733&icon_color=F1C40F&text_color=FFFFFF" alt="Eren's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/ErenGunduzz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenGunduzz&theme=radical&hide_border=true&stroke=FF5733&ring=F1C40F&fire=F1C40F&sideNums=FF5733" alt="Eren's GitHub Streak" width="48%" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ErenGunduzz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenGunduzz&theme=radical&hide_border=true&layout=compact&bg_color=000000&title_color=FF5733&icon_color=F1C40F&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  </a>
+</p>
+
+---
+
 ### 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=ErenGunduzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/ErenGunduzz">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ErenGunduzz&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributions" width="60%"/>
+  </a>
+</p>
