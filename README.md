@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Eren Gündüz 👋</h1>
-<h3 align="center">Senior Computer Engineering Student | Software & Embedded Systems Enthusiast</h3>
+<h3 align="center">Senior Computer Engineering Student | Computer Systems Enthusiast</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
