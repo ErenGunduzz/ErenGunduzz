@@ -23,10 +23,10 @@
 
 ## 🚀 Skills  
 - **Programming Languages**: C++, Java, Python, C# (Intermediate)  
-- **Operating Systems**: Linux (Intermediate), MacOS, Windows 
+- **Operating Systems**: Linux (Intermediate), MacOS, Windows  
 - **Embedded Systems & IoT**  
 - **Computer Security**  
-- **Android Programming**
+- **Android Programming**  
 - **Web Developing**  
 
 ## 🌱 Currently Learning  
@@ -38,14 +38,15 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/akinerengunduz/)  
 - 🏆 [LeetCode](https://leetcode.com/user2668E/) | [HackerRank](https://www.hackerrank.com/a_erengunduz) | [StackOverflow](https://stackoverflow.com/users/20018335/erengndz)  
 | [TryHackMe](https://tryhackme.com/p/cicikov)
+
 ---
 
 ## 🛠 Languages and Tools  
 <p align="left">
-  <a href="https://github.com/WongKinYiu/yolov7" target="_blank"><img src="https://editor.analyticsvidhya.com/uploads/18913image-removebg-preview%20(2).png" alt="YOLOv7" width="40" height="40"/></a> 
-  <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3061/3061341.png" alt="Security" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 </p>
 
 ---
@@ -59,7 +60,3 @@
 
 ### 🔝 Top Contributed Repositories  
 ![](https://github-contributor-stats.vercel.app/api?username=ErenGunduzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-Bu güncellenmiş README, GitHub profilinizi daha profesyonel ve etkileyici hale getirecektir. İsterseniz eklemeler yapabilir veya tasarımı daha da kişiselleştirebiliriz! 🚀💻
