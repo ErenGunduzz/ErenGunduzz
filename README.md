@@ -6,7 +6,7 @@
 </div>
 
 ## 🎓 Education  
-- **Ege University** – Senior Computer Engineering Student (GPA: 3.12/4)  
+- **Ege University** – Senior Computer Engineering Student (GPA: 3.18/4)  
 - **Fatma Emin Kutvar Anatolian High School** – Graduated with Top 3 Degree (2016-2020)  
 
 ## 💼 Work Experience  
