@@ -2,7 +2,7 @@
 <h3 align="center">Senior Computer Engineering Student | Computer Systems Enthusiast</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="400"/>
 </div>
 
 ## 🎓 Education  
