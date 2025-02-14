@@ -30,7 +30,7 @@
 - **Web Developing**  
 
 ## 🌱 Currently Learning  
-- Data Science, Machine Learning, and Deep Learning.  
+- Information Security, Network Engineering and Software Engineering. 
 
 ## 📫 Contact Me  
 - ✉️ Email: [akineren1121@hotmail.com](mailto:akineren1121@hotmail.com) | [a.erengunduz@gmail.com](mailto:a.erengunduz@gmail.com)  
